@@ -48,7 +48,8 @@ Revolutionary **AI-powered multi-studio** combining:
 - **Quality**: Enterprise-grade with startup agility
 
 ### **Unique Business Model**
-- **Live-In Studio**: Founder residence eliminates $18K/year housing + 24/7 availability
+- **Live-In Studio**: Founder residence eliminates $18K/year housing + 24/7 availability + reduced facility costs
+- **Smart Equipment Strategy**: Used/open-box equipment purchases reducing setup costs by 40-60%
 - **Multi-Studio Integration**: Only provider offering dev + media + filming
 - **Immediate Revenue Portfolio**: $775K-$3.25M ready-to-market applications requiring only marketing investment
 - **Dual Market Strategy**: Corporate (NW Arkansas) or Community Impact (SE Michigan)
@@ -108,10 +109,15 @@ Technical leader with extensive software development experience and portfolio of
 ### **Use of Funds**: $1.5M Series A
 **Use of Funds**:
 - **30%** ($450K): High-level marketing campaigns for existing portfolio applications
-- **25%** ($375K): Studio facility setup and infrastructure
+- **25%** ($375K): Studio facility setup and infrastructure (40-60% savings via used/open-box equipment)
 - **25%** ($375K): Initial team hiring (2-3 key positions)
 - **15%** ($225K): Business development and market expansion
 - **5%** ($75K): Working capital and contingency
+
+**Cost Efficiency Advantages**:
+- **Live-in model**: $18K/year housing savings + reduced facility overhead
+- **Smart equipment strategy**: Used/open-box purchases reduce setup costs by $150K-225K
+- **Integrated operations**: Multi-studio sharing reduces per-service equipment costs
 
 ### **Immediate ROI Acceleration**
 - **Month 1-3**: Portfolio marketing launch generating immediate revenue

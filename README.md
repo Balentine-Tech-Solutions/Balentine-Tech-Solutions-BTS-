@@ -159,8 +159,9 @@ Unlike traditional service providers, BTS offers seamless integration across all
 
 ### **🎯 Key Investment Benefits - Unmatched Value**
 - **💡 AI-First Advantage**: Revolutionary development model with 5x productivity multiplier
-- **🏠 Live-In Studio Model**: $18K/year housing cost elimination + 24/7 availability
-- **� Immediate Revenue Portfolio**: $775K-$3.25M ready-to-market applications requiring only marketing investment
+- **🏠 Live-In Studio Model**: $18K/year housing cost elimination + 24/7 availability + reduced facility overhead
+- **💰 Smart Equipment Strategy**: Used/open-box purchases reduce setup costs by $150K-225K (40-60% savings)
+- **📱 Immediate Revenue Portfolio**: $775K-$3.25M ready-to-market applications requiring only marketing investment
 - **📈 Rapid ROI**: 60-90 days to portfolio revenue with 72-622% marketing ROI
 - **🌍 Dual Market Strategy**: Global talent flexibility + Detroit community asset options
 - **🏘️ Community Impact**: Transform underserved talent into high-value tech professionals (Detroit model)

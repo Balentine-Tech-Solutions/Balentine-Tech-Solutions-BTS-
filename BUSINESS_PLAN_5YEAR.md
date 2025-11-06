@@ -75,11 +75,23 @@ Both locations utilize the same foundational approach:
 **Productivity Multiplier**: AI tools enable 3-5x development speed, allowing single founder to handle multiple concurrent projects.
 
 #### **🏠 Live-In Studio Advantages**
-- **Cost Savings**: $18K/year housing eliminated
+- **Cost Savings**: $18K/year housing eliminated + reduced facility overhead
 - **24/7 Availability**: Client emergencies and international time zones
 - **Security**: Equipment protection and facility monitoring
 - **Productivity**: No commute, flexible hours, immediate response capability
 - **Client Impression**: Dedication and availability demonstration
+
+#### **💰 Smart Equipment Strategy**
+- **Used/Open-Box Purchasing**: 40-60% savings on professional equipment
+- **Target Sources**: Corporate liquidations, open-box retailers, certified refurbished
+- **Quality Standards**: Professional-grade equipment with warranties when possible
+- **Cost Impact**: $150K-225K savings on initial equipment investment
+- **Equipment Categories**:
+  - Recording equipment: $25K new → $10K used (60% savings)
+  - Video production gear: $40K new → $16K used (60% savings)
+  - Development workstations: $15K new → $9K used (40% savings)
+  - Audio interfaces & monitors: $8K new → $3.5K used (55% savings)
+- **Risk Mitigation**: Thorough testing, warranty options, backup equipment budget
 
 ### **Phase 2: Growth & Team Building (Years 2-3)**
 
