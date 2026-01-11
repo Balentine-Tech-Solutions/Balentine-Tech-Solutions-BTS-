@@ -37,6 +37,7 @@ Experience
 Founder & Technical Lead — Balentine Tech Solutions (BTS)
 Dates: Present
 - Pivoted to SaaS business model focused on developing custom systems and online presence solutions for businesses and individuals, with multi-tiered studio capabilities (development, recording, filming) to keep all client projects in-house, working with OKSBDC to establish SMART goals, UVP, and LLC legal structure.
+- Designed lean remote-first operational model with bi-monthly team meetings at Gradient (membership-based) to maintain collaboration while minimizing overhead costs.
 - Designed a $500/month AI tool stack architecture aimed at increasing developer productivity and accelerating time-to-market through AI-assisted workflows for client projects.
 - Developed prototypes and go-to-market concepts representing potential revenue streams estimated in financial models at $775K–$3.25M; these require further development and commercialization.
 - Designed production-ready architecture and financial models projecting break-even in ~8 months under specific assumptions (models available on request).
