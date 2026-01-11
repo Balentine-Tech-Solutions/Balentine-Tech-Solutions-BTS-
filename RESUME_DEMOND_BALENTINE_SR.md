@@ -13,6 +13,7 @@ Core Strengths
 - Full-stack architecture & implementation: Next.js, TypeScript, React, Node.js, Postgres
 - Mobile: React Native (iOS & Android) exposure and mobile-first thinking
 - AI-enabled engineering: tool stacking, RAG, agentic AI patterns, prompt engineering
+- **AI Communication & Integration**: Unique ability as a developer who can effectively articulate to AI systems, enabling advanced AI-human collaboration workflows that most Oklahoma businesses cannot access or implement
 - Product & customer focus: frequent user feedback loops and production releases
 - SaaS & business systems: custom solutions for online presence, operational efficiency, and business growth
 - DevOps & deployment: CI/CD, Docker, cloud-hosted production systems (AWS/GCP concepts)
@@ -31,6 +32,8 @@ BTS addresses the $651B+ SMB digital transformation market by solving a critical
 - **Local Focus**: Supporting SMBs, creators, and personal brands with comprehensive digital presence solutions
 
 **Target Market**: 71% of small businesses lack professional websites, video content demand up 85% YoY, yet most agencies specialize in only ONE area. BTS fills this gap with integrated technical + creative expertise.
+
+**Oklahoma Competitive Advantage**: As a developer who can effectively articulate to AI systems, BTS offers Oklahoma businesses access to advanced AI-enhanced solutions that most local competitors cannot provide or implement.
 
 Experience
 ----------
